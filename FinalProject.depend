@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1467760348 source:/root/Desktop/C++ course/Final Project/FinalProject/Card.cpp
+	<iostream>
+	<string>
+	"Card.h"
+
+1467760052 /root/Desktop/C++ course/Final Project/FinalProject/Card.h
+
+1467759106 source:/root/Desktop/C++ course/Final Project/FinalProject/main.cpp
+	<iostream>
+	<string>
+	<map>
+	<iterator>
+	<algorithm>
+	"Card.h"
+	"Rolodex.h"
+	"main.h"
+
+1467583696 /root/Desktop/C++ course/Final Project/FinalProject/Rolodex.h
+
+1467761204 source:/root/Desktop/C++ course/Final Project/FinalProject/Rolodex.cpp
+	<iostream>
+	<string>
+	<map>
+	<algorithm>
+	<iterator>
+	<utility>
+	"Card.h"
+	"Rolodex.h"
+
+1467584174 /root/Desktop/C++ course/Final Project/FinalProject/main.h
+
